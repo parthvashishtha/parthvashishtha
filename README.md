@@ -1,10 +1,10 @@
 Hi 👋 My name is Parth Sharma
 =============================
 
-Aspiring Developer | Musician | Enthusiast
+Aspiring Web Developer | Musician | Enthusiast
 ------------------------------------------
 
-Currently doing Web developent. Learning Data Stuctures, improving problem solving skills and exploring music.
+Currently doing Web development. Learning Data Structures, improving problem solving skills and exploring music.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [parthsharmabilari295@gmail.com](mailto:parthsharmabilari295@gmail.com)
